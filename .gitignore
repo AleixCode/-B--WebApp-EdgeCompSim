@@ -1,1 +1,4 @@
-./Logic/app/GEN_EUA_TS/
+Logic/app/GEN_EUA_TS
+**/__pycache__/
+**/venv
+Logic/app/Simulations/**
